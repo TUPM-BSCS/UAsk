@@ -1,2 +1,2 @@
 # UAsk
-Lomboy, Bandong, Zafra, Ongjoco, Banate, Nitario
+Lomboy, Bandong, Zafra, Ongjoco, Banate , Nitario(taga space)
